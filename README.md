@@ -12,9 +12,15 @@ Implemented features:
 
 Requirements: Mac OSX, xCode 10.2 and a compatible iOS Device.
 
+*Screenshot of the App running on a iPhone X in Portrait Mode*
+
 ![screenshotiPhoneXPortaitOn](./dice-iPhoneXOn.png)
 
+*Screenshot of the App running on a iPhone X in LandScape Mode*
+
 ![screenshotiPhoneXLandscape](./dice-iPhoneXLandscape.png)
+
+*Screenshot of the App running on a iPhone X in Portrait Mode, with the Shake-feature turned off*
 
 ![screenshitiPhoneXPotraitOff](./dice-iPhoneXOff.png)
 
