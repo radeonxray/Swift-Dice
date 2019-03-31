@@ -12,7 +12,14 @@ Implemented features:
 
 Requirements: Mac OSX, xCode 10.2 and a compatible iOS Device.
 
-*Screenshot*
+![screenshotiPhoneXPortaitOn](./dice-iPhoneXOn.png)
 
-![test](./dicegamepicture.png)
+![screenshotiPhoneXLandscape](./dice-iPhoneXLandscape.png)
+
+![screenshitiPhoneXPotraitOff](./dice-iPhoneXOff.png)
+
+
+*Screenshot of Older version, running in xCode*
+
+![xcodeSimiPhone8](./dicegamepicture.png)
 
