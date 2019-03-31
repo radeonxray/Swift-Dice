@@ -7,10 +7,8 @@ Implemented features:
 - Press "Roll"-button to roll the set of Dice
 - Shake you device to roll the pair of dice
 - Turn off the "Shake"-feature
-
-Current missing features:
-- Not optimzed for all screensizes
-- Not optimzed for Landscape-view
+- Optimized for all iOS device screens
+- Optimized for both landscape- and portrait-view
 
 Requirements: Mac OSX, xCode 10.2 and a compatible iOS Device.
 
